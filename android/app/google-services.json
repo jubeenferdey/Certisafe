@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1029955264915",
+    "project_id": "flutter-teacher-s-diary",
+    "storage_bucket": "flutter-teacher-s-diary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029955264915:android:e1bc0e5641b42a798bc866",
+        "android_client_info": {
+          "package_name": "com.flutter.loyolite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029955264915-0sqddft70mdfdab8i066agjupbl8mbis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaOA1vR3c3Y6eu1E8GQNm9Hyhr_88T88k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029955264915-0sqddft70mdfdab8i066agjupbl8mbis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
